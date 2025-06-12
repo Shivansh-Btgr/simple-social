@@ -1,4 +1,4 @@
-# FastAPI Course Project
+# FastAPI Social Media Project
 
 A complete FastAPI application with authentication, database integration, and deployment configuration.
 
